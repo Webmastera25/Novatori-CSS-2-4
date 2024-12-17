@@ -1,0 +1,159 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+}
+
+#header {
+    margin-top: 156px;
+    text-align: center;
+}
+
+h1 {
+    width: 1400px;
+    height: 674px;
+    color: #ffffff;
+    padding: 20px;
+    font-family: PoetsenOne;
+    font-size: 44.452px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-image: url(img/imagee.svg);
+}
+
+#launch {
+    margin-top: 115px;
+    width: 1137px;
+    padding: 40px 32px;
+    text-align: center;
+    border-radius: 24px;
+    background-color: #EBF8FE;
+}
+
+h2 {
+    color: #181D27;
+    font-family: "Inria Sans";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: -1.28px;
+}
+
+h3 {
+    text-align: left;
+    color: #535862;
+    font-family: "Instrument Sans";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 44px;
+}
+
+#inputOne{
+    display: inline-block;
+    padding:  12px 14px;
+    color: #717680;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height:  24px;
+}
+
+#input {
+    width: 345px;
+    height: 48px;
+}
+
+
+
+#subscribeLink {
+    padding: 12px 18px;
+    text-align: center;
+    text-transform: capitalize;
+    margin-left: 24px;
+    border-radius: 8px;
+    border: 2px solid #FFF;
+    background: #007CB8;
+    text-decoration: none;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px; 
+}
+
+#policy {
+    color: #535862;
+    text-align: left; 
+    font-family: Inter;
+    font-size:  14px;
+    margin-top: 8px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+#form {
+    margin-top: 72px;
+    text-align: left;
+    width: 546px;
+    padding: 40px 32px;
+    border-radius: 24px;
+    background-color: #EBF8FE;
+    text-transform: capitalize;
+}
+
+h4 {
+    color: #181D27;
+    font-family: "Inria Sans";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    margin-bottom: 24px;
+}
+
+#input {
+    margin: 24px 5px;
+    border-radius: 8px;
+    border: 1px solid #380054;  
+    width: 482px;
+    padding: 13px 16px;
+    background-color: transparent;
+}
+
+#friend {
+    margin-top: 24px;
+    color: #3d0000;
+    font-family: "Noto Sans Georgian";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+#radio {
+    padding: 10px;
+    color: #6D5F8B;
+    font-family: "Noto Sans Georgian";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+#check {
+   padding: 10px;
+}
+
+label {
+    padding: 10px;
+}
